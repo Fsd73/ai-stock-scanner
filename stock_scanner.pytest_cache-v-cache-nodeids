@@ -1,0 +1,4 @@
+[
+  "test_scanner.py::test_backtest",
+  "test_scanner.py::test_features"
+]
